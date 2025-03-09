@@ -25,7 +25,7 @@ const ExperienceSection = () => {
   ];
 
   return (
-    <div className="w-full min-h-screen bg-black text-white p-12">
+    <div className="w-full h-full bg-black text-white p-12">
       {/* Experience heading with star */}
       <div className="flex items-center mb-16">
         <span className="text-white mr-3">✧</span>
